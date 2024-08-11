@@ -56,6 +56,10 @@ payload:
   - DOMAIN-SUFFIX,pornemby.club
   - DOMAIN-SUFFIX,servers.xeton.dev
   - DOMAIN-SUFFIX,xmsl.org
+  - DOMAIN-SUFFIX,cherrytv.one
+  - DOMAIN-SUFFIX,cf.emby.moe
+  - DOMAIN-SUFFIX,789.123456.al
+  - DOMAIN-SUFFIX,emby.amatrixap.com
   - DOMAIN-KEYWORD,emby.wtf
   - DOMAIN-KEYWORD,jmsooo
   - DOMAIN-KEYWORD,odysseyplus
